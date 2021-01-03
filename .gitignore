@@ -72,4 +72,4 @@ __pypackages__/
 .vscode
 
 # Security
-backend/secrets.py
+backend/backend/secrets.py
